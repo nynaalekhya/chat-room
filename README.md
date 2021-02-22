@@ -1,5 +1,5 @@
 # Chat Room
-A simple social media application with users, posts, likes and comments - developed using React, Node, Express and MongoDB. 
+A chat application with real-time communication features like posts, comments and likes using MongoDB as Database, NodeJS for backend, and ReactJS for frontend.
 
 #### What you need to run this code
 1. Node (13.12.0)
