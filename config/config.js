@@ -4,7 +4,7 @@ const config = {
   jwtSecret: process.env.JWT_SECRET || "YOUR_secret_key",
   mongoUri: process.env.MONGODB_URI ||
     process.env.MONGO_HOST ||
-    'mongodb+srv://name:password@123@cluster0.f1c2s.mongodb.net/mern?retryWrites=true&w=majority'
+    'mongo url'
 }
 
 export default config
